@@ -1,10 +1,7 @@
-[League video](https://test.league-dev.com/showreel.mp4)
-https://www.youtube.com/watch?v=lsbSJH4vqEQ
+[League video](https://github.com/user-attachments/assets/4ecc31d3-6e56-4621-8866-9c7e3fe96abb)
+
 <br /><br />
 
 <section align="center">
   LEAGUE \ Development Agency
 </section>
-<br /><br />
-
-## About us
