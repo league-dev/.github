@@ -3,19 +3,12 @@
 <br /><br /><br />
 
 <p align="center">
-  L E A G U E  ://  D E V E L O P M E N T
+  L E A G U E  ×  D E V E L O P M E N T
 </p>
+<p align="center">
 <br /><br />
-
-<b align="center">We design. We build. We launch.</b>
+<sub>From bold brands to seamless digital products —<br>
+LEAGUE crafts experiences that move your business forward.</sub>
 <br /><br />
-From bold brands to seamless digital products —<br>
-LEAGUE crafts experiences that move your business forward.
-<br /><br />
-Design & development for visionaries, startups, and established teams.<br>
-Let’s create something remarkable together.
-<br /><br />
-<sub align="center">Minimal. Precise. Impactful.</sub>
-
-<br /><br />
-<sub align="center">Minimal. Precise. Impactful.</sub>
+<sub>Minimal. Precise. Impactful.</sub>
+</p>
