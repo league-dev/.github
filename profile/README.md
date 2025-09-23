@@ -1,4 +1,4 @@
-[League video](./showreel.mp4)
+[League video](https://test.league-dev.com/showreel.mp4)
 
 <br /><br />
 
