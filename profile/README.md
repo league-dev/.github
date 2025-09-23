@@ -5,8 +5,6 @@
 <p align="center">
   L E A G U E  ://  D E V E L O P M E N T
 
-<br /><br /><br /><br />
-
 <b>We design. We build. We launch.</b>
 <br /><br />
 From bold brands to seamless digital products —<br>
@@ -17,7 +15,6 @@ Let’s create something remarkable together.
 <br /><br />
 <sub>Minimal. Precise. Impactful.</sub>
 
-</p>
 <br /><br />
 <sub>Minimal. Precise. Impactful.</sub>
 
