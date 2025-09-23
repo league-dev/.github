@@ -8,7 +8,7 @@
 
 <!-- Варіант 2: Extra Wide Spacing, Standard Caps with spaces -->
 <span style="font-size:2rem;">
-L E A G U E  \  D E V E L O P M E N T A G E N C Y
+L E A G U E  \  D E V E L O P M E N T &#0020 A G E N C Y
 </span>
 
 </div>
