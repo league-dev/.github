@@ -4,8 +4,10 @@
 
 <p align="center">
   L E A G U E  ://  D E V E L O P M E N T
+</p>
+<br /><br />
 
-<b>We design. We build. We launch.</b>
+<b align="center">We design. We build. We launch.</b>
 <br /><br />
 From bold brands to seamless digital products —<br>
 LEAGUE crafts experiences that move your business forward.
@@ -13,9 +15,7 @@ LEAGUE crafts experiences that move your business forward.
 Design & development for visionaries, startups, and established teams.<br>
 Let’s create something remarkable together.
 <br /><br />
-<sub>Minimal. Precise. Impactful.</sub>
+<sub align="center">Minimal. Precise. Impactful.</sub>
 
 <br /><br />
-<sub>Minimal. Precise. Impactful.</sub>
-
-</p>
+<sub align="center">Minimal. Precise. Impactful.</sub>
