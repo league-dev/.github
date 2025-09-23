@@ -3,12 +3,21 @@
 <br /><br /><br />
 
 <p align="center">
+  L E A G U E  \  D E V E L O P M E N T A G E N C Y
+</p>
 
-<br /><br /><br />
+<br /><br /><br /><br />
 
-<!-- Варіант 2: Extra Wide Spacing, Standard Caps with spaces -->
-<span style="font-size:2rem;">
-L E A G U E  \  D E V E L O P M E N T &#2009 A G E N C Y
-</span>
+<p align="center">
 
-</div>
+<b>We design. We build. We launch.</b>
+<br /><br />
+From bold brands to seamless digital products —<br>
+LEAGUE crafts experiences that move your business forward.
+<br /><br />
+Design & development for visionaries, startups, and established teams.<br>
+Let’s create something remarkable together.
+<br /><br />
+<sub>Minimal. Precise. Impactful.</sub>
+
+</p>
