@@ -3,7 +3,7 @@
 <br /><br /><br />
 
 <p align="center">
-  L E A G U E  \  D E V E L O P M E N T A G E N C Y
+  L E A G U E  ://  D E V E L O P M E N T
 </p>
 
 <br /><br /><br /><br />
