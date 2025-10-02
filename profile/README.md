@@ -1,7 +1,7 @@
 
 [![League video](https://github.com/user-attachments/assets/437906dc-4912-459d-89db-f6fc9b3161e8)](https://github.com/user-attachments/assets/9e35a657-dbd3-4959-a382-63b0ac7545c7)
 
-![100% success rate](https://img.shields.io/badge/100%_success_rate-Upwork-blue)
+![100% success rate](https://img.shields.io/badge/100%25_Success_Rate-Upwork-blue)
 ![More thang 250+ completed projects](https://img.shields.io/badge/250+-Website_Accomplishments-black)
 
 <br /><br /><br />
