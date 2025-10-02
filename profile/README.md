@@ -2,7 +2,7 @@
 [![League video](https://github.com/user-attachments/assets/437906dc-4912-459d-89db-f6fc9b3161e8)](https://github.com/user-attachments/assets/9e35a657-dbd3-4959-a382-63b0ac7545c7)
 
 <p align="right">
-![100% success rate](https://img.shields.io/badge/100%25_Success_Rate-Upwork-black)
+  <img src="https://img.shields.io/badge/100%25_Success_Rate-Upwork-black" alt="100% success rate">
 </p>
 
 <br /><br /><br />
